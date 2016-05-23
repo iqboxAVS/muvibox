@@ -1,4 +1,4 @@
-http://www.aerialview.tv/app/lodi/sport/sport.zip
-http://www.aerialview.tv/app/lodi/classic/classic.zip
-location 3
+http://www.aerialview.tv/app/KodiWizard/versionfiles/TITAN/update.zip
+http://www.aerialview.tv/app/KodiWizard/versionfiles/NEBULA/update.zip
+http://www.aerialview.tv/app/KodiWizard/versionfiles/GLASS/update_1437471097.zip
 location 4
