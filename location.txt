@@ -1,4 +1,4 @@
-http://www.aerialview.tv/app/KodiWizard/versionfiles/TITAN/update.zip
-http://www.aerialview.tv/app/KodiWizard/versionfiles/NEBULA/update.zip
+https://www.muviboxes.com/muvibox/english.zip
+https://www.muviboxes.com/muvibox/spanish.zip
 http://www.aerialview.tv/app/KodiWizard/versionfiles/GLASS/update_1437471097.zip
 location 4
