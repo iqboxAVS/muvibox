@@ -1,1 +1,1 @@
-Add apk download url here
+https://dl.dropboxusercontent.com/u/181245836/appclients/MuviBox/MuviBoxUpdaterUpdateCheck.apk
